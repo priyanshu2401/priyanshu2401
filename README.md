@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack project.<br><br>🌱 I’m currently learning Data Structures and Algorithms.<br><br>🙌 I like Competitive Programming.<br><br>📫 How to reach me singh.priyanshu.2401@gmail.com
+🔭 I’m currently working on a full stack project.<br>🌱 I’m currently learning Data Structures and Algorithms.<br>🙌 I like Competitive Programming.<br>📫 How to reach me singh.priyanshu.2401@gmail.com
 
 
 ## 🌐 Socials:
